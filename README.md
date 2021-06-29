@@ -13,7 +13,7 @@ Video demo for User Interface Design Course: https://youtu.be/bhdTqV2yt_4
 Special attention was given to the **User Interface Design** of this app along with making sure that the consistency, aesthetics, colors, usability, learnability, and safety of the app are optimum. Fitts' law, Nielsen’s 10 heuristics and Norman’s seven stages of action (i.e., gulfs of execution and evaluation) helped with the User Experience of the app as well. 
 
 ## Login Screen, Welcome Screen and Profile Screen 
-<p align="center"> <img src="https://user-images.githubusercontent.com/57969397/123835995-d4346c00-d8ce-11eb-9436-a49a8eda6db0.png" height="500"> &nbsp; <img src="https://user-images.githubusercontent.com/57969397/123849473-73149480-d8de-11eb-8071-05ae3e7fd1f8.png" height="500"> &nbsp; <img src="https://user-images.githubusercontent.com/57969397/123849557-8aec1880-d8de-11eb-90e7-7de8219faea4.png" height="500"> </p> <br>
+<p align="center"> <img src="https://user-images.githubusercontent.com/57969397/123835995-d4346c00-d8ce-11eb-9436-a49a8eda6db0.png" height="500"> &nbsp; <img src="https://user-images.githubusercontent.com/57969397/123849473-73149480-d8de-11eb-8071-05ae3e7fd1f8.png" height="500"> &nbsp; <img src="https://user-images.githubusercontent.com/57969397/123849557-8aec1880-d8de-11eb-90e7-7de8219faea4.png" height="500"> </p> 
 
 ## How to run?
 #### Platform details
