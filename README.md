@@ -27,6 +27,6 @@ Basically, we use Pixel_3a XL API_30 in the AVD Emulator and run the application
 To start our prototype, please click on the following link. This will take you to the prototype page which is hosted on github.  <br\>
 Note: if you require access to the github link, please email Sam Alammar (halamm2@uic.edu) to give you a request permission! <br> <br\>
 To enter the application at the login screen, please enter: <br> <br\>
-username: admin <br> <br\>
+username: admin <br> 
 password: password <br> <br\>
 ~~Note, if you would like to clone our github repository to run the site locally, you will need to insert your own API key for the Google Maps API. Currently our API key is restricted to the website url.~~ Currently the API key is unrestricted so enjoy!
