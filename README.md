@@ -2,11 +2,7 @@
 
 **An efficient mobile app for musicians to borrow & lend instruments**
 
-Developers: Adwait Chavan | Ava Smith | Husham Alammar | Luke Austin
-
-
-
-
+Developers: Adwait Chavan | Ava Smith | Husham Alammar | Luke Austin <br> <br\>
 
 Learn more about the developers here: https://www.linkedin.com/in/adwaitchavan/
 
@@ -28,9 +24,9 @@ Our application is made using Java, and XML, and can be displayed using the Andr
 
 Basically, we use Pixel_3a XL API_30 in the AVD Emulator and run the application. The implementation has been tested on both Windows and Macintosh environments running Android Studio 10 IDE.
 ### Instructions
-To start our prototype, please click on the following link. This will take you to the prototype page which is hosted on github.
-Note: if you require access to the github link, please email Sam Alammar (halamm2@uic.edu) to give you a request permission!
-To enter the application at the login screen, please enter: <br\>
+To start our prototype, please click on the following link. This will take you to the prototype page which is hosted on github. <br> <br\>
+Note: if you require access to the github link, please email Sam Alammar (halamm2@uic.edu) to give you a request permission! <br> <br\>
+To enter the application at the login screen, please enter: <br> <br\>
 username: admin <br> <br\>
-password: password <br\>
+password: password <br> <br\>
 ~~Note, if you would like to clone our github repository to run the site locally, you will need to insert your own API key for the Google Maps API. Currently our API key is restricted to the website url.~~ Currently the API key is unrestricted so enjoy!
