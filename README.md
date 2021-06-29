@@ -22,7 +22,7 @@ Our application is made using Java, and XML, and can be displayed using the Andr
 ![details](https://user-images.githubusercontent.com/57969397/123855555-aad30a80-d8e5-11eb-810c-6018b8351421.png)
 
 Basically, we use Pixel_3a XL API_30 in the AVD Emulator and run the application. The implementation has been tested on both Windows and Macintosh environments running Android Studio 10 IDE.
-### Instructions
+#### Instructions
 To start our prototype, please go to https://github.com/AdwaitChavan/Instrumental. This will take you to the prototype page which is hosted on github.  <br>
 To enter the application at the login screen, please enter: <br> 
 username: admin <br> 
