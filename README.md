@@ -2,9 +2,12 @@
 
 **An efficient mobile app for musicians to borrow & lend instruments**
 
-Developers: Adwait Chavan | Ava Smith | Husham Alammar | Luke Austin\
+Developers: Adwait Chavan | Ava Smith | Husham Alammar | Luke Austin
 
-            
+
+
+
+
 Learn more about the developers here: https://www.linkedin.com/in/adwaitchavan/
 
 Video demo for User Interface Design Course: https://youtu.be/bhdTqV2yt_4
